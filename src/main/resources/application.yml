@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://rm-bp1z0472oxzye7f00mo.mysql.rds.aliyuncs.com:3306/project411
+    username: root
+    password: Chen982973
+    driver-class-name: com.mysql.jdbc.Driver
